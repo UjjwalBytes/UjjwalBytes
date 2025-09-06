@@ -1,5 +1,16 @@
+# 👋 Hi, I'm Ujjwal Kesharwani  
 
-## 🌐 Social Media:
+💻 MCA Student | 🌐 Aspiring Full-Stack Developer | 🚀 Tech Explorer  
+
+---
+
+## 🚀 About Me  
+- 🌱 Currently learning **MERN Stack, C#, and Data Structures & Algorithms**  
+- 🎯 Goal: To become a skilled **Full-Stack Developer** and build impactful projects  
+- 💡 Passionate about **Web Development, UI/UX, and Problem Solving**  
+- ⚡ Fun fact: I enjoy designing **aesthetic and responsive websites**  
+---
+## 🌐 Let's Connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ujjwalbytes._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujjwal-kesharwani-4b2b10337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
